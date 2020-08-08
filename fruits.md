@@ -8,3 +8,4 @@
 - Watermelon
 - Kiwi Fruit
 - Blueberries 
+- Durian

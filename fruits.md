@@ -5,3 +5,6 @@
 - Orange
 - Banana
 - Mango
+- Watermelon
+- Kiwi Fruit
+- Blueberries 

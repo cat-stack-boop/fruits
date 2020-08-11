@@ -9,3 +9,8 @@
 - Kiwi Fruit
 - Blueberries 
 - Durian
+- Kumquat
+- Grapes
+- Snake fruit
+- Longan
+
